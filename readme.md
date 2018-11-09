@@ -12,3 +12,5 @@ Also, alot of my commands will be done in BETA so make you use BETA DBM!
 EMBED COMMAND: 
 
  The embed command requires AWAIT RESPONSE so, you need mods and beta!
+ 
+ i legit only forked this for the meme but check mine out [here](https://github.com/vikktrey123/Trey-Made-Raw-Data)
